@@ -90,7 +90,7 @@ body {
   height: 38rem;
   position: relative;
   border-radius: 20px;
-  background-image: url("./assets/mask-group.png");
+  background-image: url("/assets/mask-group.png");
   background-position: center;
   background-repeat: no-repeat; 
   background-size: cover;
